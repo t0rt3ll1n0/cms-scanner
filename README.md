@@ -8,7 +8,7 @@ git clone https://github.com/t0rt3ll1n0/cms-scanner.git
 cd cms-scanner
 ````
 ````
-sudo python3 cms.py
+sudo python3 cms.py https://www.sito.com
 ````
 ## Compatibile con:
 - Windows
